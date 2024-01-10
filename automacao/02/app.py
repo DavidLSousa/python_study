@@ -1,3 +1,5 @@
+# Pegando itens de um site  epassando para uma planilha
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import openpyxl
